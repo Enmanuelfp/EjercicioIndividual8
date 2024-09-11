@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjercicioIndividual8</string>
+    <string name="bienvenido">¡Bienvenido!</string>
+    <string name="nombre">Enmanuel Perez</string>
+    <string name="abrir">Abrir imagenes</string>
+    <string name="cerrar">Cerrar imagenes</string>
+</resources>
